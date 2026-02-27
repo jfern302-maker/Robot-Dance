@@ -74,3 +74,15 @@ The p5.js sketch must be run from a local web server because the Web Serial API 
 *   **Size:** Move the joystick **up and down** to change the robot's size.
 *   **Fuzziness:** Turn the **potentiometer** to make the robot's outline fuzzy or smooth.
 *   **Jump:** **Press** the joystick button to make the robot jump.
+
+---
+
+## `//-` Project Demo
+
+> VISUAL DATA... PROCESSING...
+
+![A photo of the project setup](IMG_1155.JPG)
+
+### Demo Videos
+*   [Demonstration Video 1](IMG_1156.MOV)
+*   [Demonstration Video 2](IMG_1157.MOV)
